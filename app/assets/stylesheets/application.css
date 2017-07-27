@@ -1,0 +1,492 @@
+
+
+.googlebody .google_icon {
+	width: 265px;
+	/*margin-top: 200px;
+	margin-right:auto;
+	margin-left: 700px;*/
+	/*margin-bottom: 25px;*/
+	margin: auto;
+	padding-top: 122px;
+	padding-bottom: 25px;
+	display: block;
+}
+
+.googlebody .apps, .apps_icon {
+	height: 23px;
+	width: 23px;
+}
+
+.googlebody .sign-in {
+	height: 23px;
+	width: 23px;
+}
+.googlebody .sign_in_logo {
+	height: 42px;
+	width: 42px;
+	border-radius: 100%;
+
+}
+.googlebody ul li {
+	list-style: none;
+	display: inline-block;
+	vertical-align: middle;
+}
+.googlebody header nav{
+	float: right;
+	/*margin-top: -200px;
+	margin-right: 4px;*/
+	padding-left: 30px;
+  padding-right: 30px;
+  position: relative;
+  text-align: right;
+  align-items: center;
+  justify-content: flex-end;
+  white-space: nowrap;
+  width: 100%;
+  right: 0;
+}
+
+.googlebody header a {
+	padding-right: 15px;
+	font-family: arial,sans-serif;
+	color: #666;
+}
+
+.googlebody .bell {
+	width: 25px;
+	height: 25px;
+}
+
+.googlebody input {
+	width: 535px;
+	height: 20px;
+	line-height: 20px;
+	padding: 1px 10px;
+	margin-left: 550px;
+	display: block;
+	background-color: #fff;
+  height: 44px;
+  vertical-align: top;
+  border-radius: 2px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+  transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
+  border: 1px solid rgba(0,0,0,0.1);
+}
+
+.googlebody .google_search, .feeling_lucky {
+  margin-top: 16px;
+  height: 36px;
+  line-height: 27px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 2px;
+  color: #757575;
+  cursor: default;
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+
+}
+
+.googlebody .google_search {
+	margin-left: 700px;
+}
+
+.googlebody .feeling_lucky {
+	margin-left: 2px;
+}
+
+.googlebody .gmail_link, .images_link {
+	color: black;
+	text-decoration: none;
+}
+
+.googlebody .images_link:hover{
+	text-decoration: underline;
+
+}
+.googlebody .gmail_link:hover{
+	text-decoration: underline;
+}
+
+
+.googlebody footer {
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  border-top: 1px solid #f2f2f2;
+  background-color: #f2f2f2;
+  position: absolute;
+  font-size: 13px;
+}
+
+.googlebody footer a {
+  line-height: 40px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-left: 13px;
+  margin-right: 14px;
+  color: #666;
+  text-decoration: none;
+  font-family: arial,sans-serif; 
+
+}
+
+.googlebody footer a:hover {
+text-decoration: underline;
+}
+
+.googlebody .right_side {
+	float: right;
+	position: inline;
+	margin-right: 8px;
+
+}
+.googlebody .left_side {
+	float: left;
+}
+
+.googlebody .buttons {
+	padding-top: 18px;
+}
+
+.googlebody .Syrian {
+  text-decoration: none;
+  font-size: small;
+  margin-bottom: 32px;
+  font-family: arial,sans-serif; 
+  margin-left: 600px;
+}
+
+.googlebody #syrian_link {
+	text-decoration: none;
+}
+
+.googlebody .google_search:hover, .feeling_lucky:hover {
+	border: 1px solid #a6a6a6;
+	cursor: pointer;
+}
+
+/*PINTREST*/
+
+.pintrestbody ul li {
+	margin: 0;
+	list-style-type: none;
+	display: inline;
+	float: left;
+	position: relative;
+	align-items: center;
+}
+
+.pintrestbody .header{
+	border-bottom: 1px solid #e5e5e5;
+	padding-bottom: 60px;
+
+}
+
+.pintrestbody li input {
+	padding: 20px;
+}
+
+.pintrestbody .pintrestlogo {
+	height: 35px;
+	width: 35px;
+}
+
+.pintrestbody .pintrestsearch {
+	height: 40px;
+	width: 48px;
+	margin-left: 50px;
+	border: none;
+
+}
+
+.pintrestbody .pintrest_search_bar {
+	margin-left: 0;
+	width: 1300px;
+	height: 35px;
+	background-color: #e5e5e5;
+	color: #757575;
+	font-family: arial, sans-serif;
+	font-size: 18px;
+	border: none;
+
+}
+
+.pintrestbody .nav_bar {
+	margin-right: 0px;
+	width: 50px;
+	float: right;
+}
+
+.pintrestbody .photos {
+	width: 19%;
+	float: left;
+	margin: .25%;
+	height: 100%;
+	display: inline-block;
+	margin-top: 30px;
+	font-family: arial, sans-serif;
+
+}
+
+.pintrestbody .photos_2 {
+	width: 19%;
+	float: left;
+	margin: .25%;
+	height: 100%;
+	display: inline-block;
+	margin-top: 30px;
+	font-family: arial, sans-serif;
+}
+
+.pintrestbody .photos_3 {
+	width: 19%;
+	float: left;
+	margin: .25%;
+	height: 100%;
+	display: inline-block;
+	margin-top: 30px;
+	font-family: arial, sans-serif;
+}
+
+.pintrestbody .photos_4 {
+	width: 19%;
+	float: left;
+	margin: .25%;
+	height: 100%;
+	display: inline-block;
+	margin-top: 30px;
+	font-family: arial, sans-serif;
+}
+
+.pintrestbody .photos_5 {
+	width: 19%;
+	float: left;
+	margin: .25%;
+	height: 100%;
+	display: inline-block;
+	margin-top: 30px;
+	font-family: arial, sans-serif;
+}
+
+.pintrestbody .photos img{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10px;
+}
+
+.pintrestbody .photos_2 img{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10px;
+}
+
+.pintrestbody .photos_3 img{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10px;
+}
+
+.pintrestbody .photos_4 img{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10px;
+}
+
+.pintrestbody .photos_5 img{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10px;
+}
+
+.pintrestbody .pictures {
+	border-radius: 5%;
+}
+
+.pintrestbody p {
+	margin-top: 3px;
+	text-align: left;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.pintrestbody #pictures_2:hover {
+	background-color: #f2f2f2
+}
+
+.pintrestbody #pictures_2 {
+	border: 1px solid #e5e5e5;
+	align-content: center;
+	margin: 2%;
+	border-radius: 5%
+}
+
+/*TESLA*/
+
+
+.teslabody .background {
+ position: fixed;
+ top: 50%; left: 50%;
+ z-index: -100;
+ min-width: 100%;
+ min-height: 100%;
+ width: 100%;
+ height: auto;
+ transform: translate(-50%, -50%);
+}
+
+.teslabody .header1 {
+	display: inline;
+	color: black;
+
+}
+
+.teslabody .tesla_id {
+	float: left;
+	margin-left: 19%;
+	margin-bottom: 7%;
+	margin-top: .3%;
+	width: 6%;
+
+}
+
+.teslabody .header_2 {
+	float: left;
+	margin-left: 30px;
+	margin-right: 75px;
+	margin-bottom: 7%;
+	margin-top: .1%;
+}
+
+.teslabody .header_3 {
+	float: right;
+	margin-right: 20%;
+	margin-left: 75px;
+	margin-bottom: 7%;
+	margin-top: .1%;
+}
+
+.teslabody .head {
+	text-decoration: none;
+	font-family: Gotham Medium,"M Hei PRC W45","M Hei HK W42","M Hei HK W40","HelveticaNeue-Regular","Helvetica Neue Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
+	vertical-align: baseline;
+	color: #fff;
+	padding: 2px;
+	font-size: 15px;
+}
+
+.teslabody .middle {
+	width: 100%;
+	text-align: center;
+	font-family: Gotham Medium,"M Hei PRC W45","M Hei HK W42","M Hei HK W40","HelveticaNeue-Regular","Helvetica Neue Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 2.5rem;
+	letter-spacing: 2px;
+	color: #fff;
+	font-weight: lighter;
+	line-height: 3.75rem;
+
+}
+
+.teslabody .buttons button {
+	text-align: center;
+	height: 35px;
+	width: 11%;
+	margin: 5px;
+	opacity: .6;
+	background-color: black;
+	color: #fff;
+}
+
+.teslabody button:hover {
+	border: 1.5px solid;
+	transition: color .5s;
+	color: #fff;
+}
+
+.teslabody .buttons {
+	text-align: center;
+}
+
+
+.teslabody #news a {
+
+	text-decoration: none;
+	font-family: Gotham Medium,"M Hei PRC W45","M Hei HK W42","M Hei HK W40","HelveticaNeue-Regular","Helvetica Neue Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: #fff;
+}
+
+.teslabody #news a:hover {
+	transition: color 1s;
+	color: red;
+}
+
+.teslabody #news {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.teslabody ul li {
+	display: inline-block;
+	color: #fff;
+}
+
+.teslabody ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.teslabody footer {
+	bottom: 0;
+	position: absolute;
+	margin: auto;
+	margin-left: 30%;
+
+}
+
+
+.teslabody #flag {
+	width: 20px;
+}
+
+/*EMAIL*/
+
+.navbarinfo ul li {
+	display: inline-block;
+	font-size: 1.3em;
+	padding-left: 10px;
+	margin-bottom: 5px;
+	color: black;
+
+}
+
+.navbarinfo {
+	background-color: lightgray;
+}
+
+.homecover h1{
+	display: inline-block;
+	margin-left: 50%;
+}
+
+.homecover p {
+	display: inline-block;
+	text-align: center;
+	font-size: 2em;
+}
+
+.navbar {
+	margin-top: -8px;
+	
+}

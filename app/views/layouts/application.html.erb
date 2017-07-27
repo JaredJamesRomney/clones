@@ -1,0 +1,19 @@
+<div class="navbarinfo"
+  <a class="navbar-brand"><%= link_to "Home", root_path %></a>
+    <ul class="navbar">
+    	<li class="nav-item"><%= link_to "Google", pages_google_path %></li>
+			<li class="nav-item"><%= link_to "Pintrest", pages_pintrest_path %></li>
+			<li class="nav-item"><%= link_to "Tesla", pages_tesla_path %></li>
+			<li class="nav-item"><%= link_to "Email", pages_email_path %></li>
+
+    </ul>
+</div>
+	<head>
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <%= yield %>
+  </body>
+
